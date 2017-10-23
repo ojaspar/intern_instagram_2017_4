@@ -1,0 +1,94 @@
+/*!
+ * Start Bootstrap - SB Admin Bootstrap Admin Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    width: 100%;
+    background: #EEE;
+}
+
+.h-padding-zero {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.h-margin-zero {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.navbar-link {
+    text-align: center;
+    padding-top: 1.5em;
+}
+
+.navbar-link a {
+    color: #444;
+}
+
+#picture{
+    float: right;
+    /*    clear: both;*/
+}
+
+#div{
+    background-color: red;
+}
+
+#post{
+    width: 100%;
+    height: 40%;
+}
+
+.comments{
+    padding: 30px;
+}
+/*
+
+.commenting{
+    padding-left: 20px;
+}*/
+
+.profile-tab{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.post-image {
+    height: inherit;
+    width: 100%;
+}
+
+.post-image-container {
+    height: 25em;
+    width: 100%;
+}
+
+.post-user-container {
+    height: 5em;
+}
+
+.post-like-container {
+    height: 3em;
+}
+
+.post-body-container {
+    height: 17em;
+    overflow-y: auto;
+}
+
+.glyphicon-heart.liked {
+    color: red;
+}
+
+.glyphicon-heart.not-liked {
+    color: gray;
+}
+
+@media only screen and (min-width:750px) {
+    .post-image-container {
+        border-right: 1px solid #888;
+    }
+}
