@@ -42,7 +42,7 @@ if(Input::exists()) {
 <html>
     <head>
         <title>Instagram</title>
-        <link rel="stylesheet" type="text/css" href="assets/bootstrap/dist/css/bootstrap.min.css">
+           <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
         <link rel="stylesheet" type="text/css" href="assets/css/registration.css">
     </head>
 <body>
